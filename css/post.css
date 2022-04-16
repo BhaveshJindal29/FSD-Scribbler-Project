@@ -1,5 +1,4 @@
 /*Edit post CSS*/
-
 .PostTitle{
     text-align: center;
     margin: 40px;
@@ -38,6 +37,8 @@
     text-justify: inter-word;
 }
 
+
+/*Like post CSS*/
 .LikeSection{
     margin-top: 40px;
 }
@@ -55,6 +56,8 @@
     margin-top: 15px;
 }
 
+
+/*Comment on post CSS*/
 .CommentSection{
     margin-bottom: 20px;
 }

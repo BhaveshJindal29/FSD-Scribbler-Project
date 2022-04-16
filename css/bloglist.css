@@ -1,31 +1,13 @@
-html{
-    background-color: orange !important;
-}
-
+/*To set the background of page and header orange */
 body{
     background-color: orange !important;
 }
-
-
-.buttons{
-    background-color: #f0c000;
-    color: black;
-    padding: 10px 10px;
-    margin-left: 10px;
-    font-weight: 500;
-    font-size: 90%;
-}
-
 
 .header{
     background-color: orange;
 }
 
-
-
-
 /* CSS For Post Cards*/
-
 
 .AllPost{
     display: flex;
@@ -33,9 +15,7 @@ body{
     flex-wrap: wrap;
     width: 100%;
     background-color: orange;
-    
 }
-
 
 .Post{
     background-color: white;
@@ -46,7 +26,6 @@ body{
     border: 2px solid white;
     border-radius: 20px;
     height: 80%;
-    
 }
 
 .postFirstPart{
