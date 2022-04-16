@@ -28,3 +28,10 @@
     margin: 0px 0px 0px 10px;
 }
 
+
+#redirect
+{
+  color: rgb(0, 117, 234);
+  cursor: pointer;
+}
+
